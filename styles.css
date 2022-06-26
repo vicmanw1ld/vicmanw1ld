@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+html,
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Lato', sans-serif;
+    background-color: black;
+}
+h2{
+    margin: 1rem 35%;
+    height: 3rem;
+    width: 30%;
+    text-align: center;
+    background-color: blanchedalmond;
+    font-weight: bold;
+    font-size: 2rem;
+}
+
+.salida{
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: bold;
+    width: 20%;
+    height: 1.5rem;
+    margin: 2rem 40%;
+    background-color: white;
+
+}
+
+.color-div{
+    text-align: center;
+}
+.back{
+    margin: auto;
+    width: 70%;
+}
+.numero_color{
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: bold;
+}
